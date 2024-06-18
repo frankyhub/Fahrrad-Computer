@@ -58,6 +58,8 @@ NANO - 9V-Batterie:
 |  --- |  ---  |
 
 
+## Schaltplan
+
 ![Bild](pic/Stromlaufplan.png)
 
 <div style="position:absolute; left:2cm; ">   
