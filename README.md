@@ -28,25 +28,35 @@ Diese Anleitung beschreibt einen Fahrrad-Computer. Auf einem OLED-Display werden
 NANO - Drehwinkelgeber KY-40:
 
 NANO  		KY40
+
 GND		GND
+
 +5V		+5V
+
 D5		SW
+
 D4		DT
+
 D3		CLK
 
 
 NANO - Hall-Sensor-Modu KY-024:
 
 NANO  		KY-024
+
 GND		GND
+
 +5V		+5V
+
 D2		D0
 
 
 NANO - 9V-Batterie:
 
 NANO  		9V
+
 GND		GND
+
 Vin		+5V
 
 ![Bild](pic/Stromlaufplan.png)
