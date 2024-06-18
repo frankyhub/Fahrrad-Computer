@@ -9,7 +9,7 @@ Fahrrad-Computer mit einem NANO, OLED-Display, Encoder und Hall-Sensor
 
 ![Bild](pic/durchnschittgeschw.png) ![Bild](pic/gesamtstrecke.png)
 
-## Strory
+## Story
 
 Diese Anleitung beschreibt einen Fahrrad-Computer. Auf einem OLED-Display werden Geschwindigkeit, Durchschnitts-Geschwindigkeit, Fahrzeit und Gesamtstrecke angezeigt. Mit einem Drehwinkelgeber werden die Seiten am Display ausgewählt. Auf Knopfdruck (Drehwinkelgeber) können die Werte gelöscht werden.
 
