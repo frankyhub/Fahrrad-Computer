@@ -5,6 +5,8 @@ Fahrrad-Computer mit einem NANO, OLED-Display, Encoder und Hall-Sensor
 
 ![Bild](pic/aufbau.png)
 
+![Bild](pic/gehaeuse.png)
+
 ![Bild](pic/aktivezeit.png) ![Bild](pic/aktuellegeschw.png)
 
 ![Bild](pic/durchnschittgeschw.png) ![Bild](pic/gesamtstrecke.png)
