@@ -3,7 +3,7 @@
 # Fahrrad-Computer
 Fahrrad-Computer mit einem NANO, OLED-Display, Encoder und Hall-Sensor
 
-![Bild](pic/aufbau.png)https://github.com/frankyhub/Fahrrad-Computer/blob/main/README.md
+![Bild](pic/aufbau.png)
 
 ![Bild](pic/aktivezeit.png) ![Bild](pic/aktuellegeschw.png)
 
