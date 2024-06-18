@@ -1,7 +1,9 @@
+<a name="oben"></a>
+
 # Fahrrad-Computer
 Fahrrad-Computer mit einem NANO, OLED-Display, Encoder und Hall-Sensor
 
-![Bild](pic/aufbau.png)
+![Bild](pic/aufbau.png)https://github.com/frankyhub/Fahrrad-Computer/blob/main/README.md
 
 ![Bild](pic/aktivezeit.png) ![Bild](pic/aktuellegeschw.png)
 
@@ -27,40 +29,39 @@ Diese Anleitung beschreibt einen Fahrrad-Computer. Auf einem OLED-Display werden
 
 NANO - Drehwinkelgeber KY-40:
 
-NANO  		KY40
-
-GND		GND
-
-+5V		+5V
-
-D5		SW
-
-D4		DT
-
-D3		CLK
+| NANO  | KY-40 | 
+| -------- | -------- | 
+| GND  |  GND  |
+| +5V  | +5V   |
+| D5	  | SW  |
+| D4  |  DT  |
+| D3  | CLK   |
+|  --- |  ---  |
 
 
 NANO - Hall-Sensor-Modu KY-024:
 
-NANO  		KY-024
 
-GND		GND
-
-+5V		+5V
-
-D2		D0
-
+| NANO  | KY-024 | 
+| -------- | -------- | 
+| GND  | GND   |
+|  +5V		 |  +5V		  |
+| D2  | D0   |
+| ---  | ---   |
 
 NANO - 9V-Batterie:
 
-NANO  		9V
+| NANO | 9V | 
+| -------- | -------- | 
+| GND	  |  GND	  |
+|  Vin	 |  +5V  |
+|  --- |  ---  |
 
-GND		GND
-
-Vin		+5V
 
 ![Bild](pic/Stromlaufplan.png)
 
----
+<div style="position:absolute; left:2cm; ">   
+<ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
+</div>
 
 
