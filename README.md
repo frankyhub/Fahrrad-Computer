@@ -22,12 +22,10 @@ Fahrrad-Computer mit einem NANO, OLED-Display, Encoder und Hall-Sensor
 <br> <br>
 
 
-<img src="pic/aktivezeit.png" width="250"> 
-<img src="pic/aktuellegeschw.png" width="250"> 
+<img src="pic/aktivezeit.png" width="250"> <img src="pic/aktuellegeschw.png" width="250"> 
 <br> <br>
 
-<img src="pic/durchnschittgeschw.png" width="250"> 
-<img src="pic/gesamtstrecke.png" width="250"> 
+<img src="pic/durchnschittgeschw.png" width="250"> <img src="pic/gesamtstrecke.png" width="250"> 
 <br> <br>
 
 ## Story
@@ -82,7 +80,7 @@ NANO - 9V-Batterie:
 ## Schaltplan
 
 
-<img src="pic/Stromlaufplan..png" width="500"> 
+<img src="pic/Stromlaufplan.png" width="500"> 
 <br> <br>
 
 
