@@ -5,13 +5,14 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Fahrrad-Computer/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Fahrrad-Computer/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Fahrrad-Computer/wiki)||
 |--|--|--|--|
 | | | | |
-<a href="https://github.com/frankyhub/Fahrrad-Computer/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Fahrrad-Computer)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Fahrrad-Computer)|<a href="https://github.com/frankyhub/Fahrrad-Computer/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Fahrrad-Computer)|<a href="https://github.com/frankyhub/Fahrrad-Computer/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Fahrrad-Computer)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2049-blue)|
+<a href="https://github.com/frankyhub/Fahrrad-Computer/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Fahrrad-Computer)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Fahrrad-Computer)|<a href="https://github.com/frankyhub/Fahrrad-Computer/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Fahrrad-Computer)|<a href="https://github.com/frankyhub/Fahrrad-Computer/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Fahrrad-Computer)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20050-blue)|
 |![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Fahrrad-Computer)| <a href="https://github.com/frankyhub/Fahrrad-Computer/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Fahrrad-Computer/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
 </div>
 
-# Fahrrad-Computer
-Fahrrad-Computer mit einem NANO, OLED-Display, Encoder und Hall-Sensor
+## Story
+
+Diese Anleitung beschreibt einen Fahrrad-Computer. Auf einem OLED-Display werden Geschwindigkeit, Durchschnitts-Geschwindigkeit, Fahrzeit und Gesamtstrecke angezeigt. Mit einem Drehwinkelgeber werden die Seiten am Display ausgewählt. Auf Knopfdruck (Drehwinkelgeber) können die Werte gelöscht werden.
 
 
 <img src="pic/aufbau.png" width="500"> 
@@ -28,9 +29,7 @@ Fahrrad-Computer mit einem NANO, OLED-Display, Encoder und Hall-Sensor
 <img src="pic/durchnschittgeschw.png" width="250"> <img src="pic/gesamtstrecke.png" width="250"> 
 <br> <br>
 
-## Story
 
-Diese Anleitung beschreibt einen Fahrrad-Computer. Auf einem OLED-Display werden Geschwindigkeit, Durchschnitts-Geschwindigkeit, Fahrzeit und Gesamtstrecke angezeigt. Mit einem Drehwinkelgeber werden die Seiten am Display ausgewählt. Auf Knopfdruck (Drehwinkelgeber) können die Werte gelöscht werden.
 
 ## Hardware
 
